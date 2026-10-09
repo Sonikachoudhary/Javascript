@@ -16,7 +16,7 @@ students.pop();
 
 console.log(students);
 
-students[1] = "Ashu";
+students[1] = "Pari";
 
 console.log(students);
 
@@ -24,7 +24,7 @@ let students = ["Sonika", "Annu", "Monu"];
 
 console.log(students.length);
 
-students.push("Ashu");
+students.push("Pari");
 
 console.log(students);
 console.log("Total students:", students.length);
