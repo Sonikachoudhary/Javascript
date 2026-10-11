@@ -1,9 +1,9 @@
 let age = 20;
 
 if (age >= 18) {
-    console.log("You are an adult");
+    console.log("You are an Adult");
 } else {
-    console.log("You are a minor");
+    console.log("You are a Minor");
 }
 
 let marks = 78;
