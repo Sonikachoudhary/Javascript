@@ -1,12 +1,12 @@
 // Day 02 - JavaScript Variables & Data Types
 
 // Variables
-let name = "Sonika";
+let name = "Monika";
 let age = 20;
 const college = "Government Engineering College Ajmer";
 
 // Different Data Types
-let studentName = "Sonika";   // String
+let studentName = "Monika";   // String
 let studentAge = 20;          // Number
 let isStudent = true;         // Boolean
 
