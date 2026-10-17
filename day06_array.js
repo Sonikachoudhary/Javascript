@@ -37,6 +37,6 @@ for (let i = 0; i < students.length; i++) {
 
 let students = ["Sonika", "Annu", "Monu"];
 
-students.unshift("Ashu");
+students.unshift("Pari");
 
 console.log(students);
