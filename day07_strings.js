@@ -1,7 +1,7 @@
 // Day 07 - JavaScript Strings
 
 // Example 1: Creating a String
-let name = "Sonika";
+let name = "Monika";
 console.log("Name:", name);
 
 // Example 2: String Length
