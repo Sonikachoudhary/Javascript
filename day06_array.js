@@ -1,6 +1,6 @@
 // Day 6 - Arrays
 
-let students = ["Sonika", "Annu", "Monu"];
+let students = ["Sonika", "Annu", "Sonu"];
 
 console.log(students);
 
